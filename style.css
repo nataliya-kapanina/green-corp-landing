@@ -372,6 +372,17 @@ footer h3 {
     margin-left: 5px;
   }
 
+  .orb-canvas {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+  }
+
+  .about {
+    position: relative;
+  }
+
 @media (max-width: 720px) {
     header {
         padding: 10px;
